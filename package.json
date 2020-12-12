@@ -1,0 +1,32 @@
+{
+  "name": "capital-dex-token-list",
+  "version": "0.0.0",
+  "description": "This GitHub repo contains the default token list used in the Capital DEX interface.",
+  "private": true,
+  "main": "build/capital-dex.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/capital-dex.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/capital-dex.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CurioTeam/capital-dex-token-list.git"
+  },
+  "author": "Curio Capital AG",
+  "bugs": {
+    "url": "https://github.com/CurioTeam/capital-dex-token-list/issues"
+  },
+  "homepage": "https://github.com/CurioTeam/capital-dex-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.8",
+    "@uniswap/token-lists": "^1.0.0-beta.19",
+    "ajv": "^6.12.6",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "rimraf": "^3.0.2"
+  }
+}

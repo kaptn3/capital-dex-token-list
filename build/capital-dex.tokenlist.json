@@ -1,0 +1,49 @@
+{
+  "name": "Capital DEX",
+  "timestamp": "2020-12-12T23:09:52.234Z",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/logo.svg",
+  "keywords": [
+    "capital dex",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Curio Governance Token",
+      "address": "0x2f4d4cFAb714e4573189B300293944673Fe0efF7",
+      "symbol": "CGT",
+      "decimals": 18,
+      "chainId": 42,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt.svg"
+    },
+    {
+      "name": "Curio Stablecoin",
+      "address": "0x558FC7FA5471Ff77c56b9cB37207d099EAcE8379",
+      "symbol": "CSC",
+      "decimals": 18,
+      "chainId": 42,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/csc.svg"
+    },
+    {
+      "name": "Curio Token",
+      "address": "0x42Bbfc77Ee4Ed0efC608634859a672D0cf49e1b4",
+      "symbol": "CUR",
+      "decimals": 18,
+      "chainId": 42,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cur.svg"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x330294de10bAd15f373BA7429Ab9685eDe43c13f",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 42,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    }
+  ]
+}

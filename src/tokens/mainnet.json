@@ -30,5 +30,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt.svg"
+  },
+  {
+    "name": "Curio Stable Coin",
+    "address": "0xfDcdfA378818AC358739621ddFa8582E6ac1aDcB",
+    "symbol": "CSC",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/csc.svg"
   }
 ]

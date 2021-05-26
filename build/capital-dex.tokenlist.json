@@ -1,9 +1,9 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2020-12-25T23:01:32.879Z",
+  "timestamp": "2021-05-26T11:23:38.557Z",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -20,6 +20,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cgt.svg"
+    },
+    {
+      "name": "Curio Stable Coin",
+      "address": "0xfDcdfA378818AC358739621ddFa8582E6ac1aDcB",
+      "symbol": "CSC",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/csc.svg"
     },
     {
       "name": "Curio Token",

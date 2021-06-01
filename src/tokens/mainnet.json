@@ -78,5 +78,13 @@
     "symbol": "XCHF",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4272071eCAdd69d933AdcD19cA99fe80664fc08/logo.png"
+  },
+  {
+    "name": "Wrapped Car Token 1",
+    "address": "0x46683747B55C4A0fF783B1A502cE682eB819eb75",
+    "symbol": "wCT1",
+    "decimals": 2,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/ct1.svg"
   }
 ]

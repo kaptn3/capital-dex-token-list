@@ -17,6 +17,7 @@
     "url": "git+https://github.com/CurioTeam/capital-dex-token-list.git"
   },
   "author": "Curio Capital AG",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/CurioTeam/capital-dex-token-list/issues"
   },

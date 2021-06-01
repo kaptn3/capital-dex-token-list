@@ -27,3 +27,7 @@ npm run build
 ```sh
 npm run prepublish
 ```
+
+## License
+
+[GPL-3.0](LICENSE)

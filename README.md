@@ -24,6 +24,8 @@ npm run build
 
 ### Prepublish
 
+Update version in ```package.json``` file and run:
+
 ```sh
 npm run prepublish
 ```

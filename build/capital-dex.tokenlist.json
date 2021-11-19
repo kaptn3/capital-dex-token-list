@@ -1,9 +1,9 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2021-10-25T15:44:27.651Z",
+  "timestamp": "2021-11-19T12:26:37.326Z",
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tags": {},
@@ -60,6 +60,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    },
+    {
+      "name": "SKALE",
+      "address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+      "symbol": "SKL",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7/logo.png"
     },
     {
       "name": "Uniswap",

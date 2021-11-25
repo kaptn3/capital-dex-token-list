@@ -1,9 +1,9 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2021-11-19T12:26:37.326Z",
+  "timestamp": "2021-11-25T14:53:22.115Z",
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "tags": {},
@@ -180,6 +180,14 @@
       "decimals": 18,
       "chainId": 2317290928455356,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Ether",
+      "address": "0xD2Aaa00700000000000000000000000000000000",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 2317290928455356,
+      "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/eth.svg"
     },
     {
       "name": "Wrapped Ether",

@@ -1,5 +1,13 @@
 [
   {
+    "name": "Ether",
+    "address": "0xD2Aaa00700000000000000000000000000000000",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 2317290928455356,
+    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/eth.svg"
+  },
+  {
     "name": "Wrapped Ether",
     "address": "0xC1308Be8cbd6c6e1F352b11aA75230b3A1fC6034",
     "symbol": "WETH",

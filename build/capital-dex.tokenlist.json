@@ -1,9 +1,9 @@
 {
   "name": "Capital DEX",
-  "timestamp": "2021-12-09T19:28:49.830Z",
+  "timestamp": "2021-12-09T19:44:46.571Z",
   "version": {
     "major": 1,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "tags": {},
@@ -158,7 +158,7 @@
       "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/csc.svg"
     },
     {
-      "name": "Curio Token",
+      "name": "Curio Token - to remove",
       "address": "0xAe17029342d6A1b6D389ec3DC2eC4743a57162e7",
       "symbol": "CUR",
       "decimals": 18,

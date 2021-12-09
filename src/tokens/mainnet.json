@@ -16,14 +16,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
-    "name": "Curio Token",
-    "address": "0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
-    "symbol": "CUR",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/cur.svg"
-  },
-  {
     "name": "Curio Governance Token",
     "address": "0xF56b164efd3CFc02BA739b719B6526A6FA1cA32a",
     "symbol": "CGT",

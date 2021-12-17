@@ -174,9 +174,9 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
-      "name": "Ether",
+      "name": "Ether ",
       "address": "0xD2Aaa00700000000000000000000000000000000",
-      "symbol": "ETH",
+      "symbol": "ETH ",
       "decimals": 18,
       "chainId": 2317290928455356,
       "logoURI": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/tokens/eth.svg"
